@@ -1,0 +1,536 @@
+@media (max-width: 360px) {
+   li a{
+        padding: 14px 15px;
+        font-size: 14px;
+    }
+
+    .heading{
+        width: 100%;
+        text-align: center;
+        margin: 0;
+        }
+        
+        h1{
+            margin: 30px 0 20px 0;
+        }
+        
+        h1 > p{
+            text-align: center;
+            font-size: 15px;
+        }
+        
+        .heading > p{
+            font-size: 13px;
+            text-align: center;
+            padding: 0 10px 0 0px;
+        }
+        
+        #heading_btn{
+            padding: 15px 25px 15px 25px;
+            font-size: 15px;
+            margin: 40px 0 0 0%;
+        }
+
+        .two_heading{
+            width: 70vw;
+            margin: 50px auto 0 auto;
+        }
+        
+        .two_heading > h2{
+            font-size: 25px;
+        }
+        
+        .two_heading > p{
+            margin-top: 10px;
+            font-size: 18px;
+        }
+        
+        .box_section{
+            display: none;
+        }   
+        
+        .secound_section_about{
+            height: auto;
+            }
+
+        #teamjpg{
+            height: 40vh;
+            width: 48vw;
+            margin-left: 88px;
+        }
+        
+        .team1{
+            opacity: 1;
+        }
+        
+        .team2{
+            opacity: 1;
+        }
+
+        .team3{
+            opacity: 1;
+        }
+
+        .team4{
+            opacity: 1;
+        }
+
+        .first_section_contact{
+            height: 60vh;
+        }
+
+        .form button{
+            padding: 8px 38px;
+            margin-top: 20px;
+        }
+
+        .map{
+            display: none;
+        }
+
+        .first_section_something{
+            height: auto;
+        }
+        
+        .something_textbox{
+            text-align: center;
+            margin-top: 70px;
+        }
+        
+        #text_something{
+            width: 70%;
+            display: block;
+            padding: 15px 50px;
+            line-height: 1.6;
+        }
+        
+        .second_section_something{
+            margin: 20vh auto;
+            width: 85vw;
+        }
+        
+        #offer{
+            width: 82vw;
+            display: inline-block;
+            margin-top: 80px;
+            padding-left: 10px;
+        }
+        
+        #offer svg{
+            display: inline-block;
+            fill: #3333cc;
+            text-align: left;
+        }
+        
+        #offer h4{
+            display: inline-block;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            font-size: 18px;
+            font-weight: lighter;
+            line-height: 32px;
+            text-align: left;
+        }
+        
+        #offer p{
+            font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+            line-height: 1.7;
+        }
+}
+
+@media (max-width: 560px) {
+    li a{
+        padding: 14px 37px;
+        font-size: 15px;
+    }
+        
+        h1{
+            margin: 80px 0 20px 0;
+        }
+        
+        h1 > p{
+            font-size: 25px;
+        }
+        
+        .heading > p{
+            font-size: 13px;
+        }
+        
+        #heading_btn{
+            padding: 15px 25px 15px 25px;
+            font-size: 15px;
+            margin: 40px 0 0 30%;
+        }
+
+        .two_heading{
+            width: 70vw;
+            margin: 40vh auto 0 auto;
+        }
+        
+        .two_heading > h2{
+            font-size: 25px;
+        }
+        
+        .two_heading > p{
+            margin-top: 10px;
+            font-size: 18px;
+        }
+        
+        .box_section{
+            display: none;
+        }   
+        
+        .secound_section_about{
+            height: auto;
+            }
+
+        #teamjpg{
+            height: 40vh;
+            width: 48vw;
+            margin-left: 128px;
+        }
+        
+        .team1{
+            opacity: 1;
+        }
+        
+        .team2{
+            opacity: 1;
+        }
+
+        .team3{
+            opacity: 1;
+        }
+
+        .team4{
+            opacity: 1;
+        }
+
+        .first_section_contact{
+            height: 60vh;
+        }
+
+        .form button{
+            padding: 8px 38px;
+            margin-top: 20px;
+        }
+
+        .map{
+            display: none;
+        }
+
+        .first_section_something{
+            height: auto;
+        }
+        
+        .something_textbox{
+            text-align: center;
+            margin-top: 70px;
+        }
+        
+        #text_something{
+            width: 70%;
+            display: block;
+            padding: 15px 83px;
+            line-height: 1.6;
+        }
+        
+        .second_section_something{
+            margin: 20vh auto;
+            width: 85vw;
+        }
+        
+        #offer{
+            width: 82vw;
+            display: inline-block;
+            margin-top: 80px;
+            padding-left: 10px;
+        }
+        
+        #offer svg{
+            display: inline-block;
+            fill: #3333cc;
+            text-align: left;
+        }
+        
+        #offer h4{
+            display: inline-block;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            font-size: 18px;
+            font-weight: lighter;
+            line-height: 32px;
+            text-align: left;
+        }
+        
+        #offer p{
+            font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+            line-height: 1.7;
+        }
+        
+}
+
+@media (max-width: 768px) {
+    li a{
+        padding: 18px 52px;
+        font-size: 22px;
+    }
+        
+        h1{
+            margin: 20vh 0 20px 0;
+        }
+        
+        h1 > p{
+            font-size: 40px;
+        }
+        
+        .heading > p{
+            font-size: 20px;
+        }
+        
+        #heading_btn{
+            padding: 15px 25px 15px 25px;
+            font-size: 19px;
+            margin: 40px 0 0 34%;
+        }
+
+        .two_heading{
+            width: 70vw;
+            margin: 40vh auto 0 auto;
+        }
+        
+        .two_heading > h2{
+            font-size: 39px;
+        }
+        
+        .two_heading > p{
+            margin-top: 10px;
+            font-size: 20px;
+        }
+        
+        .box_section{
+            display: none;
+        }   
+        
+        .secound_section_about{
+            height: auto;
+            }
+
+        #teamjpg{
+            height: 40vh;
+            width: 48vw;
+            margin-left: 200px;
+        }
+        
+        .team1{
+            opacity: 1;
+        }
+        
+        .team2{
+            opacity: 1;
+        }
+
+        .team3{
+            opacity: 1;
+        }
+
+        .team4{
+            opacity: 1;
+        }
+
+        .first_section_contact{
+            height: 60vh;
+        }
+
+        .form button{
+            padding: 8px 38px;
+            margin-top: 20px;
+        }
+
+        .map{
+            display: none;
+        }
+
+        .first_section_something{
+            height: auto;
+        }
+        
+        .something_textbox{
+            text-align: center;
+            margin-top: 70px;
+        }
+        
+        #text_something{
+            width: 70%;
+            display: block;
+            padding: 15px 120px;
+            line-height: 1.6;
+        }
+        
+        .second_section_something{
+            margin: 20vh auto;
+            width: 85vw;
+        }
+        
+        #offer{
+            width: 82vw;
+            display: inline-block;
+            margin-top: 80px;
+            padding-left: 10px;
+        }
+        
+        #offer svg{
+            display: inline-block;
+            fill: #3333cc;
+            text-align: left;
+        }
+        
+        #offer h4{
+            display: inline-block;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            font-size: 18px;
+            font-weight: lighter;
+            line-height: 32px;
+            text-align: left;
+        }
+        
+        #offer p{
+            font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+            line-height: 1.7;
+        }
+        
+}
+
+@media (max-width: 1024px) {
+    li a{
+        padding: 20px 65px;
+        font-size: 32px;
+    }
+        
+        h1{
+            margin: 20vh 0 20px 0;
+        }
+        
+        h1 > p{
+            font-size: 55px;
+        }
+        
+        .heading > p{
+            font-size: 27px;
+        }
+        
+        #heading_btn{
+            padding: 15px 25px 15px 25px;
+            font-size: 23px;
+            margin: 40px 0 0 35%;
+        }
+
+        .two_heading{
+            width: 70vw;
+            margin: 40vh auto 0 auto;
+        }
+        
+        .two_heading > h2{
+            font-size: 39px;
+        }
+        
+        .two_heading > p{
+            margin-top: 10px;
+            font-size: 20px;
+        }
+        
+        .box_section{
+            display: none;
+        }   
+        
+        .secound_section_about{
+            height: auto;
+            }
+
+        #teamjpg{
+            height: 40vh;
+            width: 48vw;
+            margin-left: 200px;
+        }
+        
+        .team1{
+            opacity: 1;
+        }
+        
+        .team2{
+            opacity: 1;
+        }
+
+        .team3{
+            opacity: 1;
+        }
+
+        .team4{
+            opacity: 1;
+        }
+
+        .first_section_contact{
+            height: 60vh;
+        }
+
+        .form button{
+            padding: 8px 38px;
+            margin-top: 20px;
+        }
+
+        .map{
+            display: none;
+        }
+
+        .first_section_something{
+            height: auto;
+        }
+        
+        .something_textbox{
+            text-align: center;
+            margin-top: 70px;
+        }
+        
+        #text_something{
+            width: 70%;
+            display: block;
+            padding: 15px 120px;
+            line-height: 1.6;
+        }
+        
+        .second_section_something{
+            margin: 20vh auto;
+            width: 85vw;
+        }
+        
+        #offer{
+            width: 82vw;
+            display: inline-block;
+            margin-top: 80px;
+            padding-left: 10px;
+        }
+        
+        #offer svg{
+            display: inline-block;
+            fill: #3333cc;
+            text-align: left;
+        }
+        
+        #offer h4{
+            display: inline-block;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            font-size: 18px;
+            font-weight: lighter;
+            line-height: 32px;
+            text-align: left;
+        }
+        
+        #offer p{
+            font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+            line-height: 1.7;
+        }
+        
+}
+
